@@ -49,3 +49,36 @@ h2 {
     color: #777;
     font-size: 14px;
   }
+
+  .picture {
+        width: 700px;
+        height: 300px;
+        object-fit: contain;
+  }
+
+  .article {
+    text-align: justify;
+  }
+
+  h5 {
+    color: #dd3232;
+    font-size: 18px;
+    padding: 0px;
+    margin: 3px;
+  }
+
+ .more-articles {
+    border-top-style: double;
+    border-top-color: #777; 
+  }
+
+  .little-articles {
+    
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  padding: 15px;
+  background-color: white;
+  text-align: justify;
+  }
+
